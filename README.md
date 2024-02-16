@@ -26,8 +26,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCastillo1997&langs_count=8&theme=dark" alt=JCastillo1997 />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JCastillo1997&theme=dark" alt="JCastillo1997" /></p>
 
